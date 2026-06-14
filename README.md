@@ -13,7 +13,14 @@ Welcome to **TradeWithSmart**, a professional execution suite designed for crypt
 * **Language:** Python 3.14+
 * **Data Feed Platform:** Bitget API Integration
 
-## 🚀 How to Run Locally
-1. Clone this repository:
+## 🚀 Live Demo
+Aap is project ka live functional dashboard niche diye gaye link par click karke dekh sakte hain:
+🖥️ **[TradeWithSmart Live Web App](https://tradewithsmart-crypto.streamlit.app/)**
+
+---
+
+## 🛠️ How to Run Locally
+
+1. **Clone this repository:**
    ```bash
    git clone [https://github.com/perfectsolutionsmarketing/tradewithsmart-crypto.git](https://github.com/perfectsolutionsmarketing/tradewithsmart-crypto.git)
